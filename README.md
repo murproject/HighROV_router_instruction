@@ -1,4 +1,4 @@
 # HighROV_router_instruction
-## Login: HighROV
+## SSID: HighROV
 ## Password: robocenter
 ## Administrator password: robocenter
